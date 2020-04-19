@@ -24,7 +24,7 @@
 * Java: openjdk version "11.0.6" 2020-01-14
    OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)
    OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
-* Файл исходного текста тестируемой программы:  
-* Файл исходного текста класса BmiService: 
-* Файл класса Main тестируемой программы: 
-* Файл класса BmiService: 
+* Файл исходного текста тестируемой программы:  https://github.com/VeraOm/-JavaHW4Task2/blob/master/src/Main.java
+* Файл исходного текста класса BmiService: https://github.com/VeraOm/-JavaHW4Task2/blob/master/src/BmiService.java
+* Файл класса Main тестируемой программы: https://github.com/VeraOm/-JavaHW4Task2/blob/master/classes/Main.class
+* Файл класса BmiService: https://github.com/VeraOm/-JavaHW4Task2/blob/master/classes/BmiService.class
